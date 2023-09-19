@@ -19,11 +19,14 @@ There are 3 Validations that are being performed:
   
   TestCase 3- Validating if the required Plan is present in the Option List i.e "30% off and double data" was 125GB 250GB Essential Plan, was £27 £18.90 per month
 
+
 Language- Python
 
 lib- Selenium
 
 IDE- Pycharm
 
-Thanks & Regards
+
+Thanks & Regards,
+
 Pratyush Singh
