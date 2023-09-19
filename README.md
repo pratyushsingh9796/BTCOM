@@ -22,9 +22,11 @@ There are 3 Validations that are being performed:
 
 Steps to reproduce:
 
-1. Clone this repository in local
-2. Open the repository folder in the Pycharm IDE (File --> Open --> Folder Path)
-3. Setup virtual environment in your directory
+1. Clone this repository in local.
+2. Open the repository folder in the Pycharm IDE (File --> Open --> Folder Path).
+3. Setup virtual environment in your directory.
+4. Intall dependencies based on the requirement file (pip install -r requirements.txt).
+5. Execute Python script (python main.py).
    
 
 Language- Python
