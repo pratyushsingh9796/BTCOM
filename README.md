@@ -11,7 +11,9 @@ Test Case for automation –
 9. Close the browser & exit
 
 Language- Python
+
 lib- Selenium
+
 IDE- Pycharm
 
 There are 3 Validations that are being performed:
