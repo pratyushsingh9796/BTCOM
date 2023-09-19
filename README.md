@@ -20,9 +20,14 @@ There are 3 Validations that are being performed:
   TestCase 3- Validating if the required Plan is present in the Option List i.e "30% off and double data" was 125GB 250GB Essential Plan, was £27 £18.90 per month
 
 
+Steps to reproduce:
+1. Clone this repository in local
+2. Open the repository folder in the Pycharm IDE (File --> Open --> Folder Path)
+   
+
 Language- Python
 
-lib- Selenium
+packages- Selenium, unittest
 
 IDE- Pycharm
 
