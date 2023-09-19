@@ -28,7 +28,7 @@ There are 3 Validations that are being performed:
 1. Clone this repository in local.
 2. Open the repository folder in the Pycharm IDE (File --> Open --> Folder Path).
 3. Setup virtual environment in your directory.
-4. Install dependencies based on the requirement file (pip install -r requirements.txt).
+4. Install dependencies based on the requirement file (pip install -r requirement.txt).
 5. Execute Python script (python main.py).
    
 ## Tools
